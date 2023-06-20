@@ -1,0 +1,53 @@
+
+  
+body{
+    background-color: white;
+}
+
+
+#nav-content{
+    background-color: red;
+}
+#ul-content{
+    list-style: none;
+    display: flex;
+    width: 30%;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#li-content{
+    padding: 30px;
+    font-size: 20px;
+}
+#li-content a{
+    color: white;
+    text-decoration: none;
+}
+
+.img_logo {
+
+    float: left;
+
+    padding-top: 10px;
+
+    width: 10%
+}
+
+
+.about-img
+{
+    margin-right: 10px;
+   
+    width: 250px;
+
+    height:300px;
+
+    border-radius: 5px;
+    border-radius: 5px;
+
+    box-shadow: outset inset 25px grey
+   
+
+}
+
